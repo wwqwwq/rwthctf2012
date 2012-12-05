@@ -35,9 +35,9 @@ Sources and everything else below `services/`:
 Infrastructure Team
 ===================
 
- * VPN and Firewall: Alexander Neumann (alexander@bumpern.de)
- * Gameserver: Florian Weingarten (flo@hackvalue.de) & Mark Schloesser (ms@mwcollect.org)
- * Website: Johannes Gilger (heipei@hackvalue.de) and Martin Lang (martin.lang@rwth-aachen.de)
- * Registration and Email: Martin Lang (martin.lang@rwth-aachen.de)
- * Scoreboard and Monitoring: Johannes Gilger (heipei@hackvalue.de)
+ * VPN, Firewall: Alexander Neumann (alexander@bumpern.de)
+ * Gameserver: Florian Weingarten (flo@hackvalue.de), Mark Schloesser (ms@mwcollect.org)
+ * Website: Johannes Gilger (heipei@hackvalue.de), Martin Lang (martin.lang@rwth-aachen.de)
+ * Registration, Email: Martin Lang (martin.lang@rwth-aachen.de)
+ * Scoreboard, Monitoring: Johannes Gilger (heipei@hackvalue.de)
  * Vulnbox preparation: Florian Kerber (kerber@itsec.rwth-aachen.de)
